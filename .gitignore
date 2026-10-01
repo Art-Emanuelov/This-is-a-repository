@@ -1,0 +1,23 @@
+# мусор от системы и редакторов
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*~
+
+# кэш и зависимости
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# жирные бинарники
+*.apk
+*.obb
+*.iso
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mkv
